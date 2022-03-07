@@ -1,21 +1,15 @@
 ### Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF798456A&size=29&lines=Hey!+It's+varun!...;Hey!+It's+varun!...;Hey!+It's+varun!...)](https://git.io/typing-svg)
-
-<h3 align="center">Data Analyst | Machine Learning Enthusiast ❤️ | Data Engineer Enthusiast</h3>
-
 ## 🙋‍♂️ About Me ✨
 
-I’m currently working on **ODI & OBIEE**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+I’m currently working on **INFORMATICA**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-How to reach me **varunaluri18@gmail.com**
+How to reach me **saisurebathina@gmail.com**
 
 
 ## You can reach me at:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varunaluri18/)
 <a href="https://www.instagram.com/varunaluri18/" alt="Instagram">
 <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/varunaluri18/"/></a>
-[![Linkedin Badge](https://img.shields.io/badge/-Kaggle-ff0000?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/varunaluri18)
 
 
 ## Views and Followers❤ 
