@@ -36,17 +36,10 @@ How to reach me **saisurebathina@gmail.com**
 
 ## 🔥 Streak stats
 
+
 <!-- GitHub Readme Streak Stats - https://github.com/skrishna96/github-readme-streak-stats -->
-<p >
   <a href="https://github.com/skrishna96/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sai's streak" src="https://github-readme-streak-stats.herokuapp.com?user=skrishna96&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-
-
-<!-- GitHub Readme Streak Stats - https://github.com/ishbindu/github-readme-streak-stats -->
-  <a href="https://github.com/ishbindu/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="varun's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ishbindu&theme=slate-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sai's streak" src="https://github-readme-streak-stats.herokuapp.com?user=skrishna96&theme=slate-metallian&hide_border=true"/>
   </a>
   
 
