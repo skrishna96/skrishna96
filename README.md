@@ -25,7 +25,6 @@ How to reach me **saisurebathina@gmail.com**
 - <b>ETL</b>
 - <b>Shell Scripting</b>
 - <b>Machine Learning</b>
--
 </p>
 
 
