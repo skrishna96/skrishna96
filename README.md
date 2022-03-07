@@ -1,21 +1,5 @@
 ### Hi there 👋
 
-<!--
-**skrishna96/skrishna96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF798456A&size=29&lines=Hey!+It's+varun!...;Hey!+It's+varun!...;Hey!+It's+varun!...)](https://git.io/typing-svg)
 
 <h3 align="center">Data Analyst | Machine Learning Enthusiast ❤️ | Data Engineer Enthusiast</h3>
@@ -35,8 +19,8 @@ How to reach me **varunaluri18@gmail.com**
 
 
 ## Views and Followers❤ 
-<a href="https://github.com/varunaluri18?tab=followers"><img src="https://img.shields.io/github/followers/varunaluri18?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=varunaluri18"></a>
+<a href="https://github.com/skrishna96?tab=followers"><img src="https://img.shields.io/github/followers/skrishna96label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/skrishna96/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=skrishna96"></a>
 
 ## Skill Set ✨
 
@@ -71,27 +55,27 @@ How to reach me **varunaluri18@gmail.com**
 
 ## 📊 My Git Stats 🔥
 <p >
-<a href="https://github.com/varunaluri18/github-readme-stats"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/varunaluri18/github-readme-stats"><img alt="Varun Aluri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunaluri18&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>    
+<a href="https://github.com/skrishna96/github-readme-stats"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=skrishna96&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/varunaluri18/github-readme-stats"><img alt="Varun Aluri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skrishna96&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>    
 </p>
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/varunaluri18/github-readme-streak-stats -->
+<!-- GitHub Readme Streak Stats - https://github.com/skrishna96/github-readme-streak-stats -->
 <p >
-  <a href="https://github.com/varunaluri18/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="varun's streak" src="https://github-readme-streak-stats.herokuapp.com?user=varunaluri18&theme=monokai-metallian&hide_border=true"/>
+  <a href="https://github.com/skrishna96/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sai's streak" src="https://github-readme-streak-stats.herokuapp.com?user=skrishna96&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
 
-<a href="https://github.com/varunaluri18/github-readme-activity-graph"><img alt="Varun Aluri Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=varunaluri18&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/skrishna96/github-readme-activity-graph"><img alt="SAI Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=skrishna96&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
 
-[![-----](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/varunaluri18?tab=repositories)
+[![-----](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/skrishna96?tab=repositories)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=varunaluri18&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=skrishna96&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 **Thanks for visit my profile.**
 
