@@ -5,17 +5,6 @@ I’m currently working on **INFORMATICA**<img src="https://media.giphy.com/medi
 
 How to reach me **saisurebathina@gmail.com**
 
-
-## You can reach me at:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varunaluri18/)
-<a href="https://www.instagram.com/varunaluri18/" alt="Instagram">
-<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/saikrishnasurebathina/"/></a>
-
-
-## Views and Followers❤ 
-<a href="https://github.com/skrishna96?tab=followers"><img src="https://img.shields.io/github/followers/skrishna96label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://github.com/skrishna96/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=skrishna96"></a>
-
 ## Skill Set ✨
 
 - <b>Informatica</b>
@@ -45,7 +34,16 @@ How to reach me **saisurebathina@gmail.com**
 
 <a href="https://github.com/skrishna96/github-readme-activity-graph"><img alt="SAI Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=skrishna96&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=skrishna96&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+## You can reach me at:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varunaluri18/)
+<a href="https://www.instagram.com/varunaluri18/" alt="Instagram">
+<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/saikrishnasurebathina/"/></a>
+
+
+## Views and Followers❤ 
+<a href="https://github.com/skrishna96?tab=followers"><img src="https://img.shields.io/github/followers/skrishna96label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/skrishna96/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=skrishna96"></a>
 
 **Thanks for visit my profile.**
