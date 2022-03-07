@@ -48,9 +48,4 @@ How to reach me **saisurebathina@gmail.com**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=skrishna96&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![-----](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/skrishna96?tab=repositories)
-
-
 **Thanks for visit my profile.**
-
-
