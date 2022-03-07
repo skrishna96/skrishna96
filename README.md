@@ -46,7 +46,10 @@ How to reach me **saisurebathina@gmail.com**
 <a href="https://github.com/skrishna96/github-readme-activity-graph"><img alt="SAI Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=skrishna96&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=skrishna96&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![-----](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/skrishna96?tab=repositories)
+
 
 **Thanks for visit my profile.**
 
