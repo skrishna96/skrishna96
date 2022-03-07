@@ -18,17 +18,14 @@ How to reach me **saisurebathina@gmail.com**
 
 ## Skill Set ✨
 
-- <b>C Language</b>
+- <b>Informatica</b>
 - <b>Python</b>
 - <b>Oracle SQL</b>
-- <b>PL/SQL</b>
+- <b>UNIX</b>
 - <b>ETL</b>
-- <b>Data Ware Housing</b>
+- <b>Shell Scripting</b>
 - <b>Machine Learning</b>
-- <b>AWS</b>
-- <b>OBIEE</b>
-- <b>BI Publisher</b>
-
+-
 </p>
 
 
