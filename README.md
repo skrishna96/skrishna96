@@ -13,7 +13,7 @@ How to reach me **saisurebathina@gmail.com**
 - <b>UNIX</b>
 - <b>ETL</b>
 - <b>Shell Scripting</b>
-- <b>Machine Learning</b>
+- <b>Snowflake</b>
 </p>
 
 
@@ -37,8 +37,8 @@ How to reach me **saisurebathina@gmail.com**
 [![trophy](https://github-profile-trophy.vercel.app/?username=skrishna96&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## You can reach me at:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varunaluri18/)
-<a href="https://www.instagram.com/varunaluri18/" alt="Instagram">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saikrishnasurebathina)
+<a href="https://www.instagram.com/skrishna.96/" alt="Instagram">
 <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/saikrishnasurebathina/"/></a>
 
 
@@ -46,4 +46,4 @@ How to reach me **saisurebathina@gmail.com**
 <a href="https://github.com/skrishna96?tab=followers"><img src="https://img.shields.io/github/followers/skrishna96label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://github.com/skrishna96/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=skrishna96"></a>
 
-**Thanks for visit my profile.**
+**Thanks for visiting my profile.**
