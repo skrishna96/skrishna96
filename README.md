@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## 🙋‍♂️ About Me ✨
 
-I’m currently working on **INFORMATICA**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+I’m currently working as an **INFORMATICA DEVELOPER** at **Accenture**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 How to reach me **saisurebathina@gmail.com**
 
